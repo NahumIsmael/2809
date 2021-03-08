@@ -1,0 +1,14 @@
+# Ejemplo de carta
+
+Diferencia entre Administración y Gestión:
+
+Para mí la administración es el proceso en el cual determinas cuales son 
+los recursos con los que cuentas, y desarrollas una planificacion junto 
+a tu equipo de como vas a ejecutar ese plan asi como posibles fallas.
+
+La gestión vendria a ser el proceso en el cual le das seguimiento a tu 
+plan una vez que ya está en marcha, donde pones a prueba de fuego todo 
+lo que planificaste así como resolver imprevistos y modificar o adaptar 
+las tareas.
+
+
